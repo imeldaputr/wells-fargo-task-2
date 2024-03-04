@@ -43,7 +43,7 @@ public class Client {
 
     public Advisor getAdvisor() { return advisor; }
 
-    public void setAdvisor(Advisor‚ advisor) { this.advisor = advisor; }
+    public void setAdvisor(Advisor advisor) { this.advisor = advisor; }
 
     public String getFirstName() { return firstName; }
 

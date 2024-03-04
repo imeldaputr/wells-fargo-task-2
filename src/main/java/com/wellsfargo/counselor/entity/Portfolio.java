@@ -32,7 +32,7 @@ public class Portfolio {
 
     public String getCreationDate() { return creationDate; }
 
-    public void String setCreationDate(String creationDate) { this.creationDate = creationDate; }
+    public void setCreationDate(String creationDate) { this.creationDate = creationDate; }
 
 
 }
